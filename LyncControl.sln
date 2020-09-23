@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LyncControl", "LyncControl.csproj", "{A24369C3-E399-4599-A974-C9A80A641B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A24369C3-E399-4599-A974-C9A80A641B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A24369C3-E399-4599-A974-C9A80A641B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A24369C3-E399-4599-A974-C9A80A641B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A24369C3-E399-4599-A974-C9A80A641B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7852725E-A017-4052-9B8C-E606806C8EDA}
+	EndGlobalSection
+EndGlobal
